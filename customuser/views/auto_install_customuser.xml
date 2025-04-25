@@ -1,0 +1,9 @@
+<!-- data/auto_install_customuser.xml -->
+<odoo>
+    <data noupdate="1">
+        <record id="module_customuser" model="ir.module.module">
+            <field name="name">customuser</field>
+            <field name="state">installed</field>
+        </record>
+    </data>
+</odoo>
